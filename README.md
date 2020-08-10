@@ -1,6 +1,5 @@
 # Earthquake_Challenge
-Module 13 Challenge Report
-(Francis Odo)
+Francis Odo
 
 Background 
 This project demonstrates the application of data in creating maps. In particular, it shows how to map earthquake data in the very best visualization format using HTML, JavaScript and CSS programing language and techniques. 
@@ -40,4 +39,4 @@ Conclusion
 The process of creating maps with earthquake data is successfully demonstrated as required. The code will need some improvement for better performance. 
 Here are some sample screen shots:
 
-Note: In order to test the any of the code, remember to modify the parth in index.html file for any of the reource files
+Note: In order to test any of the code, remember to modify the path for each resource files in index.html file accordingly.
